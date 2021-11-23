@@ -1,0 +1,57 @@
+body{
+    margin: 0%;
+    padding: 0%;
+}
+
+.container{
+    padding: 10px 0px;
+    
+}
+
+.searching{
+    background-color: rgb(245, 237, 237);
+}
+div{
+    text-align: center;
+}
+
+.image{
+    width: auto;
+    height: auto;
+    
+    
+}
+input{
+    width: 30%;
+}
+
+.box{
+    
+    text-align: center;
+    margin: 0px 1px;
+    float: left;
+    height: 120px;
+    text-align: center;
+    background-color: lightblue;
+    
+   
+}
+
+.type-1{
+    
+    width: 37%;
+}
+
+.type-2{
+    
+    width: 25%;
+}
+
+.type-3{
+   
+    width: 37%;
+}
+
+.clean{
+    clear: both;
+}
